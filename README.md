@@ -1,2 +1,9 @@
-# mulo
-μLO: Compute-Efficient Meta-Generalization of Learned Optimizers [to appear at ICLR 2026]
+# μLO: Compute-Efficient Meta-Generalization of Learned Optimizers
+Authors: Benjamin Thérien, Charles-Étienne Joseph, Boris Knyazev, Edouard Oyallon, Irina Rish, Eugene Belilovsky
+
+Official code: https://github.com/bentherien/mu_learned_optimization
+
+Paper: https://openreview.net/forum?id=f8z2bzOLK2 
+
+Related repo for the paper **Meta-learning Optimizers for Communication-Efficient Learning [TMLR 2025]**: https://github.com/lefameuxbeding/learned_aggregation
+
